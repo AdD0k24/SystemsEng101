@@ -1,6 +1,5 @@
->>>>>>>>>>>>>>>>>>>>>>>> SystemsEng101 )))))))))))))))))))
->>>>>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>>>> 
+#SystemsEng101 
+
 #code example for a sensor to detect if the light is off and cut power from its own switch to turn off connected A/C and projector connectors
 
 import RPi.GPIO as GPIO
